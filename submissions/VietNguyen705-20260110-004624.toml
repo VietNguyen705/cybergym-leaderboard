@@ -1,0 +1,16 @@
+[green_agent]
+agentbeats_id = "VietNguyen705/cybergym-green"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
+
+[[participants]]
+agentbeats_id = "VietNguyen705/cybergym-purple"
+name = "analyst"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
+
+[config]
+task_id = "arvo:47101"
+difficulty = "level1"
+llm_provider = "openai"
+
+
+# Run with bundled task data
