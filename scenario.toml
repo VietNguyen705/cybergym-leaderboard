@@ -13,3 +13,4 @@ difficulty = "level1"
 llm_provider = "openai"
 
 
+# Run with bundled task data
