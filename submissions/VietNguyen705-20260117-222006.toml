@@ -1,0 +1,14 @@
+[green_agent]
+agentbeats_id = "019ba510-5532-72e2-aa7e-a6a87c6fd6fe"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
+
+[[participants]]
+agentbeats_id = "019ba511-b71e-7d00-b65b-449b5fde73ff"
+name = "analyst"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
+
+[config]
+task_id = "arvo:47101"
+difficulty = "level1"
+llm_provider = "openai"
+# run2
