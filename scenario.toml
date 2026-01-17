@@ -1,9 +1,9 @@
 [green_agent]
-agentbeats_id = "VietNguyen705/cybergym-green"
+agentbeats_id = "019ba554-8942-7bf0-bab6-226fca91e0e0"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
 
 [[participants]]
-agentbeats_id = "VietNguyen705/cybergym-purple"
+agentbeats_id = "019ba511-b71e-7d00-b65b-449b5fde73ff"
 name = "security_analyst"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
 
