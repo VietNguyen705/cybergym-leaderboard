@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/vietnguyen705/cybergym-green@sha256:9f868c70e5a7ad631da7755ef673033e23d751612299a9873197f11432ca1fe6",
+    "analyst": "ghcr.io/vietnguyen705/cybergym-purple@sha256:5e3769250d4b598bbc585d207d46601c4f20fd5d8c5a1181470da68f13792e21",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-17T22:20:19Z",
+  "github_actions": {
+    "run_url": "https://github.com/VietNguyen705/cybergym-leaderboard/actions/runs/21101735662",
+    "run_logs_url": "https://api.github.com/repos/VietNguyen705/cybergym-leaderboard/actions/runs/21101735662/logs",
+    "ref": "refs/heads/trigger-run-20260117-141901",
+    "sha": "3a82e8245482b5038e09c74293607abd97db85c4",
+    "repository_url": "https://github.com/VietNguyen705/cybergym-leaderboard",
+    "workflow_ref": "VietNguyen705/cybergym-leaderboard/.github/workflows/run-scenario.yml@refs/heads/trigger-run-20260117-141901",
+    "workflow_sha": "3a82e8245482b5038e09c74293607abd97db85c4"
+  }
+}
